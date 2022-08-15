@@ -1,0 +1,12 @@
+/* bagian surahview */
+.arti-ayat {
+	width: 70%;
+} 
+.ayat {
+	direction: rtl;
+	font-weight: 300 !important;
+}
+.nomor {
+	font-weight: 500;
+}
+  /* akhir bagian surahview */

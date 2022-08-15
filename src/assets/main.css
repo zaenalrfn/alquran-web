@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600&display=swap');
+:root {
+  --colorUtama: #f6f6f7;
+  --colorText: #1c3a6e;
+}
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+#app {
+  background-color: var(--colorUtama);
+  color: var(--colorText);
+}
